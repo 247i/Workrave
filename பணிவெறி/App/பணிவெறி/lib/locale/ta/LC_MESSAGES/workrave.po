@@ -1,0 +1,280 @@
+# Esperanto translation of workrave.
+# Copyright (C) 2002 Rob Caelers & Raymond Penners
+# Eric lesh <eclesh@pacbell.net>, 2002.
+# தமிழ்நேரம் <anishprabu.t@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: Workrave\n"
+"Report-Msgid-Bugs-To: https://github.com/rcaelers/workrave/issues\n"
+"POT-Creation-Date: 2022-11-27 23:04+0100\n"
+"PO-Revision-Date: 2011-02-16 19:50+0100\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: தமிழ்நேரக்குழு\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
+"X-Poedit-Language: Tamil\n"
+"X-Poedit-Country: INDIA\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: ui/libs/commonui/src/Text.cc:79
+#, c-format
+msgid "%s%d seconds"
+msgstr "%s%d வினாடிகள்"
+
+#: ui/libs/commonui/src/Text.cc:75
+#, c-format, qt-format
+msgid "%s%d:%02d minutes"
+msgstr "%s%d:%02d நிமிடங்கள்"
+
+#: ui/libs/commonui/src/Text.cc:71
+#, c-format, qt-format
+msgid "%s%d:%02d:%02d hours"
+msgstr "%s%d:%02d:%02d மணிநேரம்"
+
+msgid "(font not available)"
+msgstr "(எழுத்துரு கிடைக்கவில்லை)"
+
+#: ui/app/toolkits/gtkmm/AutoUpdateDialog.cc:138
+msgid "<h3>Version {}</h3>\n"
+msgstr "<h3>பதிப்பு {}</h3>\n"
+
+#: ui/app/toolkits/gtkmm/Ui.cc:113
+msgid "?"
+msgstr "?"
+
+#: ui/app/toolkits/gtkmm/AutoUpdateDialog.cc:105
+msgid "A new version of {} is available"
+msgstr "{} இன் புதிய பதிப்பு உள்ளது"
+
+msgid "About..."
+msgstr "பற்றி..."
+
+msgid "Activity"
+msgstr "செயல்பாடு"
+
+msgid "Advanced"
+msgstr "மேம்பட்ட"
+
+msgid "Allow incoming connections"
+msgstr "உள்வரும் இணைப்புகளை அனுமதி"
+
+msgid "Block mode:"
+msgstr "தடுப்பு முறை:"
+
+msgid "Break duration:"
+msgstr "இடைவேளை காலம்:"
+
+msgid "Break ignored"
+msgstr "இடைவேளை புறக்கணிக்கப்பட்டது"
+
+msgid "Break in %s"
+msgstr "%s இல் இடைநிறுத்தம்"
+
+msgid "Breaks"
+msgstr "இடைவேளைகள்"
+
+msgid "Breaks postponed"
+msgstr "இடைவேளைகள் ஒத்திவைக்கப்பட்டது"
+
+msgid "Breaks skipped"
+msgstr "தவிர்க்கப்பட்ட இடைவெளிகள்"
+
+msgid "Browse history"
+msgstr "வரலாற்றை உலாவவும்"
+
+#: ui/app/toolkits/gtkmm/AutoUpdater.cc:151
+msgid "Check for _Updates"
+msgstr "புதுப்பிப்புகளை சரிபார்க்கவும்"
+
+msgid "Choose a sound"
+msgstr "ஒலியைத் தேர்ந்தெடு"
+
+msgid "Connecting to %s."
+msgstr "%s உடன் இணைக்கிறது."
+
+msgid "Custom"
+msgstr "தனிப்பயன்"
+
+msgid "Daily limit"
+msgstr "அன்றாட வரம்பு"
+
+msgid "Daily limit in %s"
+msgstr "%s இல் அன்றாட வரம்பு"
+
+msgid "Daily limit:"
+msgstr "அன்றாட வரம்பு:"
+
+msgid "Date:"
+msgstr "தேதி:"
+
+msgid "Event"
+msgstr "நிகழ்வு"
+
+msgid "General"
+msgstr "பொது"
+
+msgid "Hide"
+msgstr "மறை"
+
+msgid "Language:"
+msgstr "மொழி:"
+
+msgid "Look into the darkness"
+msgstr "இருட்டிருக்குள் பார்க்கவும்"
+
+msgid "Micro-break"
+msgstr "நுண்-இடைவெளி"
+
+msgid "Micro-break ended"
+msgstr "நுண்-இடைவெளி முடிந்துவிட்டது"
+
+msgid "Micro-break started"
+msgstr "நுண்-இடைவெளி தொடங்கியது"
+
+msgid "Micro-break:"
+msgstr "நுண்-இடைவெளி:"
+
+msgid "Mouse movement:"
+msgstr "சுட்டி இயக்கம்:"
+
+msgid "Mouse usage:"
+msgstr "சுட்டி பயன்பாடு:"
+
+msgid "Move the eyes"
+msgstr "கண்களை நகர்த்தவும்"
+
+msgid "Move the shoulders"
+msgstr "தோள்களை நகர்த்தவும்"
+
+msgid "Move the shoulders up and down"
+msgstr "தோள்களை மேலும் கீழும் நகர்த்தவும்"
+
+msgid "Natural breaks taken"
+msgstr "இயற்கையாக எடுக்கப்பட்ட இடைவெளிகள்"
+
+msgid "Natural rest break"
+msgstr "இயற்கை ஓய்வு இடைவேளை"
+
+msgid "Next rest break in %s"
+msgstr "%s இல் அடுத்த ஓய்வு இடைவேளை"
+
+msgid "No blocking"
+msgstr "தடுப்பு இல்லை"
+
+msgid "No sounds"
+msgstr "ஒலிகள் இல்லை"
+
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+msgid "Password:"
+msgstr "கடவுச்சொல்:"
+
+msgid "Pause"
+msgstr "இடைநிறுத்தம்"
+
+msgid "Play"
+msgstr "விளையாடு"
+
+msgid "Please relax for a few seconds"
+msgstr "தயவுசெய்து சில கணங்கள் ஓய்வெடுங்கள்"
+
+msgid "Postpone time:"
+msgstr "நேரத்தை ஒத்திவைக்கவும்:"
+
+msgid "Preferences"
+msgstr "விருப்பங்கள்"
+
+msgid "Rest break"
+msgstr "ஓய்வு இடைவேளை"
+
+msgid "Rest break ended"
+msgstr "ஓய்வு இடைவேளை முடிந்தது"
+
+msgid "Rest break started"
+msgstr "ஓய்வு இடைவேளை தொடங்கியது"
+
+msgid "Rest break:"
+msgstr "ஓய்வு இடைவேளை:"
+
+msgid "Resume"
+msgstr "தொடரவும்"
+
+msgid "Server settings"
+msgstr "சேவையக அமைப்புகள்"
+
+msgid "Show"
+msgstr "காட்டு"
+
+msgid "Show status window"
+msgstr "நிலை சாளரம் காட்டு"
+
+msgid "Sound Events"
+msgstr "ஒலி நிகழ்வுகள்"
+
+msgid "Sound Options"
+msgstr "ஒலி விருப்பங்கள்"
+
+msgid "Sounds"
+msgstr "ஒலிகள்"
+
+msgid "Statistics"
+msgstr "புள்ளிவிவரங்கள்"
+
+msgid "Status Window"
+msgstr "நிலை சாளரம்"
+
+msgid "System default"
+msgstr "கணினி இயல்புநிலை"
+
+msgid "Take rest break now"
+msgstr "இப்போது ஓய்வு எடுங்கள்"
+
+msgid "This is your natural rest break."
+msgstr "இது உங்களின் இயற்கையான ஓய்வு இடைவேளை."
+
+msgid "Time for a micro-break?"
+msgstr "நுண்-இடைவேளைக்கான நேரமா?"
+
+msgid "Turn your head"
+msgstr "உங்கள் தலையைத் திருப்பவும்"
+
+msgid "User interface"
+msgstr "பயனர் இடைமுகம்"
+
+msgid "Username:"
+msgstr "பயனர்பெயர்:"
+
+msgid "Wait"
+msgstr "காத்திரு"
+
+msgid "Workrave"
+msgstr "பணிவெறி"
+
+msgid "You need a rest break..."
+msgstr "உங்களுக்கு ஓய்வு இடைவேளை தேவை..."
+
+msgid "You should stop for today..."
+msgstr "இன்றைக்கு நீங்கள் நிறுத்த வேண்டும்..."
+
+msgid "_Connect"
+msgstr "இணை"
+
+msgid "_Preferences"
+msgstr "விருப்பங்கள்"
+
+msgid "_Quit"
+msgstr "வெளியேறு"
+
+msgid "_Rest break"
+msgstr "ஓய்வு இடைவேளை"
+
+msgid "_Restbreak"
+msgstr "ஓய்வுஇடைவேளை"
+
+msgid "_Statistics"
+msgstr "புள்ளிவிவரங்கள்"

@@ -1,18 +1,19 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: ta\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-21 15:05+0800\n"
-"PO-Revision-Date: 2009-03-03 11:24+0530\n"
+"PO-Revision-Date: 2024-10-10 18:53+0530\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: தமிழ்நேரக்குழு\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
+"X-Generator: KBabel 1.11.4\n"
 
 msgid "Accessible Description"
 msgstr "సరైన వర్ణన"
@@ -72,8 +73,8 @@ msgid ""
 "Is used to notify that the table caption has changed; this property should "
 "not be used. accessible-table-caption-object should be used instead"
 msgstr ""
-"మీరు పట్టిక శీర్షిక మారిందని గమనిస్తే; ఈ లక్షణాన్ని ఉపయోగించకండి.  దానికి బదులు accessible-table-"
-"caption-object ఉపయోగించాలి"
+"మీరు పట్టిక శీర్షిక మారిందని గమనిస్తే; ఈ లక్షణాన్ని ఉపయోగించకండి.  దానికి "
+"బదులు accessible-table-caption-object ఉపయోగించాలి"
 
 msgid "Is used to notify that the table column description has changed"
 msgstr "పట్టిక కాలమ్ వర్ణన మార్చబడిందని సూచించబడింది"
@@ -322,76 +323,76 @@ msgid "root pane"
 msgstr "రూట్ పనే"
 
 msgid "row header"
-msgstr "రో శీర్షిక"
+msgstr "வரிசை தலைப்பு"
 
 msgid "ruler"
-msgstr "రూలర్"
+msgstr "அளவுகோல்"
 
 msgid "scroll bar"
-msgstr "స్క్రోలు బారు"
+msgstr "சுருள் பட்டி"
 
 msgid "scroll pane"
-msgstr "స్క్రోలు పనే"
+msgstr "சுருள் பலகம்"
 
 msgid "section"
-msgstr "విభాగం"
+msgstr "பிரிவு"
 
 msgid "separator"
-msgstr "వేర్పరి"
+msgstr "பிரிப்பான்"
 
 msgid "slider"
-msgstr "స్లైడరు"
+msgstr "சருக்கான்"
 
 msgid "spin button"
-msgstr "స్పిన్ మీట"
+msgstr "சுழல் பொத்தான்"
 
 msgid "split pane"
-msgstr "విడి పనే"
+msgstr "பிளவு பலகம்"
 
 msgid "statusbar"
-msgstr "స్థితి పట్టీ"
+msgstr "நிலைப்பட்டி"
 
 msgid "table"
-msgstr "పట్టిక"
+msgstr "அட்டவணை"
 
 msgid "table cell"
-msgstr "పట్టీ గడి"
+msgstr "அட்டவணை செல்"
 
 msgid "table column header"
-msgstr "పట్టిక కాలమ్ శీర్షిక"
+msgstr "அட்டவணை நெடுவரிசை தலைப்பு"
 
 msgid "table row header"
-msgstr "పట్టిక రో శీర్షిక"
+msgstr "அட்டவணை வரிசை தலைப்பு"
 
 msgid "tear off menu item"
-msgstr "జాబితా అంశ భాగం"
+msgstr "மெனு உருப்படியை கிழித்து விடு"
 
 msgid "terminal"
-msgstr "టెర్మినలు"
+msgstr "முனையம்"
 
 msgid "text"
-msgstr "పాఠం"
+msgstr "உரை"
 
 msgid "toggle button"
-msgstr "టోగ్లె మీట"
+msgstr "மாற்று பொத்தான்"
 
 msgid "tool bar"
-msgstr "ఉపకరణ పట్టీ"
+msgstr "கருவிப்பட்டி"
 
 msgid "tool tip"
-msgstr "ఉపకరణ సూచి"
+msgstr "கருவி முனை"
 
 msgid "tree"
-msgstr "వృక్షం"
+msgstr "மரம்"
 
 msgid "tree table"
-msgstr "వృక్ష పట్టిక"
+msgstr "மர அட்டவணை"
 
 msgid "unknown"
-msgstr "తెలియని"
+msgstr "தெரியாது"
 
 msgid "viewport"
-msgstr "దృశ్యపోర్టు"
+msgstr "காண்துறைமுகம்"
 
 msgid "window"
-msgstr "విండో"
+msgstr "சாளரம்"

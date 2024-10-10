@@ -16,16 +16,16 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 msgid "Accessible Description"
-msgstr "సరైన వర్ణన"
+msgstr "அணுகக்கூடிய விளக்கம்"
 
 msgid "Accessible Layer"
-msgstr "అందుబాటులో ఉన్న స్థరం"
+msgstr "அணுகக்கூடிய அடுக்கு"
 
 msgid "Accessible MDI Value"
-msgstr "సరైన ఎండిఐ విలువ"
+msgstr "அணுகக்கூடிய MDI மதிப்பு"
 
 msgid "Accessible Name"
-msgstr "అందుబాటులోని పేరు"
+msgstr "அணுகக்கூடிய பெயர்"
 
 msgid "Accessible Parent"
 msgstr "అందుబాటులోని మాతృక"
@@ -230,97 +230,97 @@ msgid "frame"
 msgstr "చట్రం"
 
 msgid "glass pane"
-msgstr "గ్లాసు పనే"
+msgstr "கண்ணாடி பலகை"
 
 msgid "header"
-msgstr "శీర్షిక"
+msgstr "தலைப்பு"
 
 msgid "heading"
-msgstr "శీర్షిక"
+msgstr "தலைப்பு"
 
 msgid "html container"
-msgstr "html వాహిక"
+msgstr "html கொள்கலன்"
 
 msgid "icon"
-msgstr "రూపు"
+msgstr "சிருஉருவப்படம்"
 
 msgid "image"
-msgstr "చిత్రం"
+msgstr "படம்"
 
 msgid "input method window"
-msgstr "ఇన్పుట్ పద్దతి విండో"
+msgstr "உள்ளீட்டு முறை சாளரம்"
 
 msgid "internal frame"
-msgstr "అంతర్గత చట్రం"
+msgstr "உள் சட்டகம்"
 
 msgid "invalid"
-msgstr "విలువలేనిది"
+msgstr "செல்லாதது"
 
 msgid "label"
-msgstr "లేబులు"
+msgstr "சிட்டை"
 
 msgid "layered pane"
-msgstr "స్తరిత పనే"
+msgstr "அடுக்கு பலகை"
 
 msgid "link"
-msgstr "లింకు"
+msgstr "இணைப்பு"
 
 msgid "list"
-msgstr "జాబితా"
+msgstr "பட்டியல்"
 
 msgid "list item"
-msgstr "జాబితా విషయం"
+msgstr "பட்டியல் உருப்படி"
 
 msgid "menu"
-msgstr "జాబితా"
+msgstr "பட்டியல்"
 
 msgid "menu bar"
-msgstr "జాబితా బారు"
+msgstr "பட்டியல் பட்டி"
 
 msgid "menu item"
-msgstr "జాబితా విషయం"
+msgstr "பட்டியல் உருப்படி"
 
 msgid "option pane"
-msgstr "ఐచ్ఛిక పనే"
+msgstr "விருப்பப் பலகம்"
 
 msgid "page"
-msgstr "పుట"
+msgstr "பக்கம்"
 
 msgid "page tab"
-msgstr "పుట టాబ్"
+msgstr "பக்கம் தாவல்"
 
 msgid "page tab list"
-msgstr "పుట టాబ్ జాబితా"
+msgstr "பக்க தாவல் பட்டியல்"
 
 msgid "panel"
-msgstr "పనేల్"
+msgstr "பலகம்"
 
 msgid "paragraph"
-msgstr "పేరా"
+msgstr "பத்தி"
 
 msgid "password text"
-msgstr "అనుమతిపద పాఠం"
+msgstr "கடவுச்சொல் உரை"
 
 msgid "popup menu"
-msgstr "పాపప్ మెనూ"
+msgstr "மேல்தோன்றும் பட்டியல்"
 
 msgid "progress bar"
-msgstr "అబివౄద్ధి సూచిక"
+msgstr "முன்னேற்றப் பட்டி"
 
 msgid "push button"
-msgstr "మీటను నొక్కండి"
+msgstr "தள்ளு பொத்தான்"
 
 msgid "radio button"
-msgstr "రేదియో మీట"
+msgstr "வானொலி பொத்தான்"
 
 msgid "radio menu item"
-msgstr "రేడియో జాబితా విషయం"
+msgstr "வானொலி பட்டியல் உருப்படி"
 
 msgid "redundant object"
-msgstr "వ్యర్ధ వస్తువు"
+msgstr "தேவையான பொருள்"
 
 msgid "root pane"
-msgstr "రూట్ పనే"
+msgstr "வேர் பலகம்"
 
 msgid "row header"
 msgstr "வரிசை தலைப்பு"

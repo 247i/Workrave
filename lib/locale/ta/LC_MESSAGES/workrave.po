@@ -1281,7 +1281,7 @@ msgstr "திற"
 
 #: ui/app/toolkits/gtkmm/BreakWindow.cc:402
 msgid "_Postpone"
-msgstr "_ போச்ட்போன்"
+msgstr "ஒத்திவை (_P)"
 
 #: ui/app/Menus.cc:72 ui/applets/mate/src/main.c:364
 msgid "_Preferences"
@@ -1310,7 +1310,7 @@ msgstr "ஓய்வுஇடைவேளை"
 
 #: ui/app/toolkits/gtkmm/BreakWindow.cc:391
 msgid "_Skip"
-msgstr "_ச்கிப்"
+msgstr "தவிர் (_S)"
 
 #: ui/app/toolkits/gtkmm/AutoUpdateDialog.cc:184
 msgid "_Skip this version"

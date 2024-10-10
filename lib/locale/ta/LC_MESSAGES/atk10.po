@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-21 15:05+0800\n"
+"PO-Revision-Date: 2009-03-03 11:24+0530\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: தமிழ்நேரக்குழு\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+
+msgid "Accessible Description"
+msgstr "సరైన వర్ణన"
+
+msgid "Accessible Layer"
+msgstr "అందుబాటులో ఉన్న స్థరం"
+
+msgid "Accessible MDI Value"
+msgstr "సరైన ఎండిఐ విలువ"
+
+msgid "Accessible Name"
+msgstr "అందుబాటులోని పేరు"
+
+msgid "Accessible Parent"
+msgstr "అందుబాటులోని మాతృక"
+
+msgid "Accessible Role"
+msgstr "గుర్తించదగ్గ పాత్ర"
+
+msgid "Accessible Table Caption"
+msgstr "సరైన పట్టిక శీర్షిక"
+
+msgid "Accessible Table Caption Object"
+msgstr "అందుబాటులోఉన్న పట్టిక శీర్షికా వస్తువు"
+
+msgid "Accessible Table Column Description"
+msgstr "సరైన పట్టిక కాలమ్ వర్ణన"
+
+msgid "Accessible Table Column Header"
+msgstr "సరైన పట్టిక కాలమ్ శీర్షిక"
+
+msgid "Accessible Table Row Description"
+msgstr "సరైన పట్టిక రో వర్ణన"
+
+msgid "Accessible Table Row Header"
+msgstr "సరైన పట్టిక రో శీర్షిక"
+
+msgid "Accessible Table Summary"
+msgstr "అందుబాటులోఉన్న పట్టిక సంక్షిప్తత"
+
+msgid "Accessible Value"
+msgstr "సరైన విలువ"
+
+msgid "Description of an object, formatted for assistive technology access"
+msgstr "విషయం యొక్క వివరణ, సాంకేతిక సహాయతకోసం ఆకృతీకరించబడింది"
+
+msgid "End index"
+msgstr "విషయ సూచిక సమాప్తి"
+
+msgid "Is used to notify that the parent has changed"
+msgstr "మాతృక మారిందని చెప్పటానికి ఉపయోగపడుతుంది"
+
+msgid "Is used to notify that the table caption has changed"
+msgstr "పట్టిక శీర్షిక మార్చబడిందని సూచించబడింది"
+
+msgid ""
+"Is used to notify that the table caption has changed; this property should "
+"not be used. accessible-table-caption-object should be used instead"
+msgstr ""
+"మీరు పట్టిక శీర్షిక మారిందని గమనిస్తే; ఈ లక్షణాన్ని ఉపయోగించకండి.  దానికి బదులు accessible-table-"
+"caption-object ఉపయోగించాలి"
+
+msgid "Is used to notify that the table column description has changed"
+msgstr "పట్టిక కాలమ్ వర్ణన మార్చబడిందని సూచించబడింది"
+
+msgid "Is used to notify that the table column header has changed"
+msgstr "పట్టిక కాలమ్ శీర్షిక మార్చబడిందని సూచించబడింది"
+
+msgid "Is used to notify that the table row description has changed"
+msgstr "పట్టిక రో వర్ణన మార్చబడిందని సూచించబడింది"
+
+msgid "Is used to notify that the table row header has changed"
+msgstr "పట్టిక కాలమ్ రో శీర్షిక మార్చబడిందని సూచించబడింది"
+
+msgid "Is used to notify that the table summary has changed"
+msgstr "పట్టిక సంక్షిప్తత మార్చబడిందని సూచించబడింది"
+
+msgid "Is used to notify that the value has changed"
+msgstr "విలువ మారిందని చెప్పటానికి ఉపయోగపడుతుంది"
+
+msgid "Number of Accessible Hypertext Links"
+msgstr "అందుబాటులోఉన్న అధిపాఠ లింకుల సంఖ్య"
+
+msgid "Number of Anchors"
+msgstr "ఏంకర్ల సంఖ్య"
+
+msgid "Object instance's name formatted for assistive technology access"
+msgstr "సహాయక సాంకేతికత అందుబాటుకు ఆకృతీకరించబడిన వస్తువు యొక్క సంకేత నామం"
+
+msgid "Selected Link"
+msgstr "ఎన్నుకోబడిన లింకు"
+
+msgid "Specifies whether the AtkHyperlink object is selected"
+msgstr "ఎటికె అధిబంధ విషయం ఎన్నికచేయబడిందా  తెల్పండి"
+
+msgid "Start index"
+msgstr "విషయసూచికను ప్రారంభించు"
+
+msgid "The accessible MDI value of this object"
+msgstr "ఈ వస్తువు యొక్క సరైన ఎండిఐ విలువ"
+
+msgid "The accessible layer of this object"
+msgstr "ఈ వస్తువు యొక్క అందుబాటులోని స్థరం"
+
+msgid "The accessible role of this object"
+msgstr "ఈ వస్తువుయొక్క గుర్తించదగ్గ పాత్ర"
+
+msgid "The end index of the AtkHyperlink object"
+msgstr "ఎటికె అధిబంధ విషయ సూచిక చివర"
+
+msgid "The number of anchors associated with the AtkHyperlink object"
+msgstr "ఏంకర్ల సంఖ్య ఎటికె అధిబంధ విషయంతో కూడిఉంది"
+
+msgid "The number of links which the current AtkHypertext has"
+msgstr "ప్రస్తుత ఎటికె అధిపాఠం కలిగిఉన్న లింకుల సంఖ్య"
+
+msgid "The start index of the AtkHyperlink object"
+msgstr "ఏటికె అధిబంధ విషయ సూచిక ప్రారంభం"
+
+msgid "accelerator label"
+msgstr "వేగకారి గుర్తింపు"
+
+msgid "alert"
+msgstr "జాగరూకత"
+
+msgid "animation"
+msgstr "యానిమేషన్"
+
+msgid "application"
+msgstr "అనువర్తనం"
+
+msgid "arrow"
+msgstr "బాణం"
+
+msgid "autocomplete"
+msgstr "స్వీయసంమాప్తి"
+
+msgid "calendar"
+msgstr "కాలెండరు"
+
+msgid "canvas"
+msgstr "కాన్వాసు"
+
+msgid "caption"
+msgstr "శీర్షిక"
+
+msgid "chart"
+msgstr "చార్టు"
+
+msgid "check box"
+msgstr "శోధక పేటిక"
+
+msgid "check menu item"
+msgstr "మెనూ విషయాన్ని శోధించు"
+
+msgid "color chooser"
+msgstr "వర్ణ నిర్ధారిణి"
+
+msgid "column header"
+msgstr "కాలమ్ శీర్షిక"
+
+msgid "combo box"
+msgstr "కాంబో పెట్టి"
+
+msgid "dateeditor"
+msgstr "తేదీ కూర్పరి"
+
+msgid "desktop frame"
+msgstr "రంగస్థల చట్రం"
+
+msgid "desktop icon"
+msgstr "రంగస్థల రూపు"
+
+msgid "dial"
+msgstr "ముఖసూచిక"
+
+msgid "dialog"
+msgstr "సంభాషణ"
+
+msgid "directory pane"
+msgstr "డైరెక్టరీ పేను"
+
+msgid "document frame"
+msgstr "పత్ర చట్రం"
+
+msgid "drawing area"
+msgstr "చిత్రలేఖన ప్రాంతం"
+
+msgid "edit bar"
+msgstr "కూర్చు మీట"
+
+msgid "embedded component"
+msgstr "ఉంచిన మూలకం"
+
+msgid "entry"
+msgstr "ప్రవేశం"
+
+msgid "file chooser"
+msgstr "ఫైలును నిర్ణేత"
+
+msgid "filler"
+msgstr "పూరకం"
+
+msgid "fontchooser"
+msgstr "ఫాంటు నిర్ణేత"
+
+msgid "footer"
+msgstr "పాదుక"
+
+msgid "form"
+msgstr "రూపం"
+
+msgid "frame"
+msgstr "చట్రం"
+
+msgid "glass pane"
+msgstr "గ్లాసు పనే"
+
+msgid "header"
+msgstr "శీర్షిక"
+
+msgid "heading"
+msgstr "శీర్షిక"
+
+msgid "html container"
+msgstr "html వాహిక"
+
+msgid "icon"
+msgstr "రూపు"
+
+msgid "image"
+msgstr "చిత్రం"
+
+msgid "input method window"
+msgstr "ఇన్పుట్ పద్దతి విండో"
+
+msgid "internal frame"
+msgstr "అంతర్గత చట్రం"
+
+msgid "invalid"
+msgstr "విలువలేనిది"
+
+msgid "label"
+msgstr "లేబులు"
+
+msgid "layered pane"
+msgstr "స్తరిత పనే"
+
+msgid "link"
+msgstr "లింకు"
+
+msgid "list"
+msgstr "జాబితా"
+
+msgid "list item"
+msgstr "జాబితా విషయం"
+
+msgid "menu"
+msgstr "జాబితా"
+
+msgid "menu bar"
+msgstr "జాబితా బారు"
+
+msgid "menu item"
+msgstr "జాబితా విషయం"
+
+msgid "option pane"
+msgstr "ఐచ్ఛిక పనే"
+
+msgid "page"
+msgstr "పుట"
+
+msgid "page tab"
+msgstr "పుట టాబ్"
+
+msgid "page tab list"
+msgstr "పుట టాబ్ జాబితా"
+
+msgid "panel"
+msgstr "పనేల్"
+
+msgid "paragraph"
+msgstr "పేరా"
+
+msgid "password text"
+msgstr "అనుమతిపద పాఠం"
+
+msgid "popup menu"
+msgstr "పాపప్ మెనూ"
+
+msgid "progress bar"
+msgstr "అబివౄద్ధి సూచిక"
+
+msgid "push button"
+msgstr "మీటను నొక్కండి"
+
+msgid "radio button"
+msgstr "రేదియో మీట"
+
+msgid "radio menu item"
+msgstr "రేడియో జాబితా విషయం"
+
+msgid "redundant object"
+msgstr "వ్యర్ధ వస్తువు"
+
+msgid "root pane"
+msgstr "రూట్ పనే"
+
+msgid "row header"
+msgstr "రో శీర్షిక"
+
+msgid "ruler"
+msgstr "రూలర్"
+
+msgid "scroll bar"
+msgstr "స్క్రోలు బారు"
+
+msgid "scroll pane"
+msgstr "స్క్రోలు పనే"
+
+msgid "section"
+msgstr "విభాగం"
+
+msgid "separator"
+msgstr "వేర్పరి"
+
+msgid "slider"
+msgstr "స్లైడరు"
+
+msgid "spin button"
+msgstr "స్పిన్ మీట"
+
+msgid "split pane"
+msgstr "విడి పనే"
+
+msgid "statusbar"
+msgstr "స్థితి పట్టీ"
+
+msgid "table"
+msgstr "పట్టిక"
+
+msgid "table cell"
+msgstr "పట్టీ గడి"
+
+msgid "table column header"
+msgstr "పట్టిక కాలమ్ శీర్షిక"
+
+msgid "table row header"
+msgstr "పట్టిక రో శీర్షిక"
+
+msgid "tear off menu item"
+msgstr "జాబితా అంశ భాగం"
+
+msgid "terminal"
+msgstr "టెర్మినలు"
+
+msgid "text"
+msgstr "పాఠం"
+
+msgid "toggle button"
+msgstr "టోగ్లె మీట"
+
+msgid "tool bar"
+msgstr "ఉపకరణ పట్టీ"
+
+msgid "tool tip"
+msgstr "ఉపకరణ సూచి"
+
+msgid "tree"
+msgstr "వృక్షం"
+
+msgid "tree table"
+msgstr "వృక్ష పట్టిక"
+
+msgid "unknown"
+msgstr "తెలియని"
+
+msgid "viewport"
+msgstr "దృశ్యపోర్టు"
+
+msgid "window"
+msgstr "విండో"

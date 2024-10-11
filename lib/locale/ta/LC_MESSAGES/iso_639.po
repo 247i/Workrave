@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/issues\n"
-"PO-Revision-Date: 2024-10-11 00:13+0530\n"
+"PO-Revision-Date: 2024-10-11 05:10+0530\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: தமிழ்நேரக்குழு\n"
 "Language: ta\n"
@@ -14,1431 +14,1430 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 msgid "Abkhazian"
-msgstr "అబ్‌ఖజియాన్"
+msgstr "அப்காசியான்"
 
 msgid "Achinese"
-msgstr "చైనీస్"
+msgstr "அசைன்ச்"
 
 msgid "Acoli"
-msgstr "అకోలి"
+msgstr "அகோலி"
 
 msgid "Adangme"
-msgstr "అడన్‌గ్మె"
+msgstr "அடாங்மீ"
 
 msgid "Adyghe; Adygei"
-msgstr "అడిగె, అడిగై"
+msgstr "அடேகே; அடேகை"
 
 msgid "Afar"
-msgstr "అఫర్"
+msgstr "அஃபார்"
 
 msgid "Afrihili"
-msgstr "అఫ్రిహిలి"
+msgstr "அஃப்ரிஇலி"
 
 msgid "Afrikaans"
-msgstr "ఆఫ్రికాన్స్"
+msgstr "ஆப்பிரிக்கா"
 
 msgid "Afro-Asiatic languages"
-msgstr "అఫ్రో-ఏసియాటిక్ భాషలు"
+msgstr "ஆப்பிரக்க-ஆசிய மொழிகள்"
 
 msgid "Ainu"
-msgstr "ఐను"
+msgstr "அய்னு"
 
 msgid "Akan"
-msgstr "అకన్"
+msgstr "அகான்"
 
 msgid "Akkadian"
-msgstr "అక్కడియన్"
+msgstr "அக்காடிநன்"
 
 msgid "Albanian"
-msgstr "అల్బేనియన్"
+msgstr "அல்பேனிய"
 
 msgid "Aleut"
-msgstr "అలెయుట్"
+msgstr "அலெவ்ட்"
 
 msgid "Algonquian languages"
-msgstr "అల్గాన్క్వియన్ భాషలు"
+msgstr "அல்கோயுயன் மொழிகள்"
 
 msgid "Altaic languages"
-msgstr "ఆల్టైక్ భాషలు"
+msgstr "அல்டைக் மொழிகள்"
 
 msgid "Amharic"
-msgstr "అమ్హారిక్"
+msgstr "அம்ஆரிக்"
 
 msgid "Angika"
-msgstr "అన్జిక"
+msgstr "அங்கிகா"
 
 msgid "Apache languages"
-msgstr "అపాచి భాషలు"
+msgstr "அபாச்சி மொழிகள்"
 
 msgid "Arabic"
-msgstr "అరబిక్"
+msgstr "அரபு"
 
 msgid "Aragonese"
-msgstr "అర్గోనీస్"
+msgstr "ஆர்கோனீச்"
 
 msgid "Arapaho"
-msgstr "అరపహొ"
+msgstr "அரபாஓ"
 
 msgid "Arawak"
-msgstr "అరవక్"
+msgstr "அரவாக்"
 
 msgid "Armenian"
-msgstr "అర్మేనియన్"
+msgstr "ஆர்மீனியன்"
 
 msgid "Aromanian; Arumanian; Macedo-Romanian"
-msgstr "అరొమనియన్; అరుమనియన్; మసెడొ-రొమానియన్"
+msgstr "அரோமானியன்; அருமானியன்; மாசிடோ-ரோமானியன்"
 
 msgid "Artificial languages"
-msgstr "అర్టిఫిషియల్ భాషలు"
+msgstr "செயற்கை மொழிகள்"
 
 msgid "Assamese"
-msgstr "అస్సామి"
+msgstr "அச்சாமீச்"
 
 msgid "Asturian; Bable; Leonese; Asturleonese"
-msgstr "అస్ట్రియన్; బబిల్; లియోనీస్; అస్టర్‌లియోనీస్"
+msgstr "ஆச்டிரியன்; பாப்லீ;லியோன்சி; அச்டூர்லியோன்சி"
 
 msgid "Athapascan languages"
-msgstr "అతపస్కన్ భాషలు"
+msgstr "அதாபாச்கன் மொழிகள்"
 
 msgid "Australian languages"
-msgstr "ఆస్ట్రేలియన్ భాషలు"
+msgstr "அச்ட்ரேலியன் மொழிகள்"
 
 msgid "Austronesian languages"
-msgstr "ఆస్ట్రొనేసియన్ భాషలు"
+msgstr "ஆச்ரோனேசியன் மொழிகள்"
 
 msgid "Avaric"
-msgstr "అవరిక్"
+msgstr "அவேரிக்"
 
 msgid "Avestan"
-msgstr "అవెస్టన్"
+msgstr "அவெச்டன்"
 
 msgid "Awadhi"
-msgstr "అవధి"
+msgstr "அவாதி"
 
 msgid "Aymara"
-msgstr "అయ్‌మర"
+msgstr "அய்மாரா"
 
 msgid "Azerbaijani"
-msgstr "అజెర్‌బైజని"
+msgstr "அசர்பைசானி"
 
 msgid "Balinese"
-msgstr "బలైనీస్"
+msgstr "பாலினீச்"
 
 msgid "Baltic languages"
-msgstr "బాల్టిక్ భాషలు"
+msgstr "பால்டிக் மொழிகள்"
 
 msgid "Baluchi"
-msgstr "బలుచి"
+msgstr "பாலுசி"
 
 msgid "Bambara"
-msgstr "బంబర"
+msgstr "பம்பாரா"
 
 msgid "Bamileke languages"
-msgstr "బమిలెకె భాషలు"
+msgstr "பமிலீகீ மொழிகள்"
 
 msgid "Banda languages"
-msgstr "బందా భాషలు"
+msgstr "பான்டா மொழிகள்"
 
 msgid "Basa"
-msgstr "బస"
+msgstr "பாசா"
 
 msgid "Bashkir"
-msgstr "బష్కిర్"
+msgstr "பச்கிர்"
 
 msgid "Basque"
-msgstr "బస్క్వే"
+msgstr "பாச்க்"
 
 msgid "Batak languages"
-msgstr "బటక్ భాషలు"
+msgstr "படாக் மொழிகள்"
 
 msgid "Beja; Bedawiyet"
-msgstr "బెజ; బెడవియట్"
+msgstr "பெசா; பெடாவியெட்"
 
 msgid "Belarusian"
-msgstr "బెలరూసియన్"
+msgstr "பெலாருசியன்"
 
 msgid "Bemba"
-msgstr "బెంబ"
+msgstr "பெம்பா"
 
 msgid "Bengali"
-msgstr "బెంగాలి"
+msgstr "பெங்காலி"
 
 msgid "Berber languages"
-msgstr "బెర్డర్ భాషలు"
+msgstr "பெர்பெர் மொழிகள்"
 
 msgid "Bhojpuri"
-msgstr "భోజ్‌పురి"
+msgstr "போச்பூரி"
 
 msgid "Bikol"
-msgstr "బికొల్"
+msgstr "பிகோல்"
 
 msgid "Bini; Edo"
-msgstr "బిని, ఎడొ"
+msgstr "பினி;இடோ"
 
 msgid "Bislama"
-msgstr "బిస్లమ"
+msgstr "பிச்லாமா"
 
 msgid "Blin; Bilin"
-msgstr "బ్లిన్; బ్లిన్"
+msgstr "ப்லின்; பில்லின்"
 
 msgid "Blissymbols; Blissymbolics; Bliss"
-msgstr "బ్లిస్సిమ్‌బొల్స్; బ్లిస్సిమ్‌బొలిక్స్; బ్లిస్"
+msgstr "ப்ளிசிம்பல்ச்; ப்ளிசிம்பாலிக்ச்; ப்ளிச்"
 
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "బొక్‌మల్, నార్వేజియన్; నార్వేజియన్ బోక్‌మల్"
+msgid "Bokmål Norwegian; Norwegian Bokmål"
+msgstr "போக்மால் நோர்வே; நோர்வே புத்தகக்குறி"
 
 msgid "Bosnian"
-msgstr "బొస్నియన్"
+msgstr "போச்னிய"
 
 msgid "Braj"
-msgstr "బ్రజ్"
+msgstr "பராச்"
 
 msgid "Breton"
-msgstr "బ్రెటన్"
+msgstr "பிரெட்டன்"
 
 msgid "Buginese"
-msgstr "బుగినీస్"
+msgstr "புகினீச்"
 
 msgid "Bulgarian"
-msgstr "బల్గేరియన్"
+msgstr "பல்கேரியன்"
 
 msgid "Buriat"
-msgstr "బురియట్"
+msgstr "புரியட்"
 
 msgid "Burmese"
-msgstr "బర్మీస్"
+msgstr "பர்மீச்"
 
 msgid "Caddo"
-msgstr "కడ్డొ"
+msgstr "காட்டோ"
 
 msgid "Catalan; Valencian"
-msgstr "కాటలాన్; వాలెన్‌సియన్"
+msgstr "காட்டலான்;வாலேன்சியன்"
 
 msgid "Caucasian languages"
-msgstr "కౌకసియన్ భాషలు"
+msgstr "கோகசியன் மொழிகள்"
 
 msgid "Cebuano"
-msgstr "సెబుయనో"
+msgstr "செபுவானோ"
 
 msgid "Celtic languages"
-msgstr "సెల్టిక్ భాషలు"
+msgstr "செல்டிக் மொழிகள்"
 
 msgid "Central American Indian languages"
-msgstr "సెంట్రల్ అమెరికన్ ఇండియన్ భాషలు"
+msgstr "மத்திய அமெரிக்க இந்திய மொழிகள்"
 
 msgid "Central Khmer"
-msgstr "సెంట్రల్ ఖ్మెర్"
+msgstr "சென்டரல் கெமெர்"
 
 msgid "Chagatai"
-msgstr "చాగటి"
+msgstr "சாகாதாய்"
 
 msgid "Chamic languages"
-msgstr "చమిక్ భాషలు"
+msgstr "சாமிக் மொழிகள்"
 
 msgid "Chamorro"
-msgstr "చామొర్రొ"
+msgstr "சாமோரோ"
 
 msgid "Chechen"
-msgstr "చెచెన్"
+msgstr "செச்சென்"
 
 msgid "Cherokee"
-msgstr "చెరొకే"
+msgstr "செரோகி"
 
 msgid "Cheyenne"
-msgstr "చెయెన్నె"
+msgstr "சென்யென்னி"
 
 msgid "Chibcha"
-msgstr "చిబ్‌చా"
+msgstr "‌"
 
 msgid "Chichewa; Chewa; Nyanja"
-msgstr "చిచెవ; చిచెవ; న్యాన్జా"
+msgstr "சிச்சீவா; சீவா; நையான்சா"
 
 msgid "Chinese"
-msgstr "చైనీస్"
+msgstr "சீன"
 
 msgid "Chinook jargon"
-msgstr "చినూక్ జర్గాన్"
+msgstr "சின்நோக் சார்கோன்"
 
 msgid "Chipewyan; Dene Suline"
-msgstr "చెప్వియన్; డెనె సులైన్"
+msgstr "சிப்வயன்; டேனே சுலைன்"
 
 msgid "Choctaw"
-msgstr "చొక్టా"
+msgstr "சோக்டாவ்"
 
 msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
 msgstr ""
-"చర్చ్ స్లానిక్; పాత స్లావొనిక్; చర్చ్ స్లవొనిక్; పాత బల్గేరియన్, పాత చర్చ్ "
-"స్లవొనిక్"
+"சர்ச் சலவிக்; பழைய சலவோனிக்; சர்ச் சலவோனிக்; பழைய பல்கேரியன்; பழைய சர்ச் "
+"சலவோனிக்"
 
 msgid "Chuukese"
-msgstr "చుకెసె"
+msgstr "சுக்கீச்"
 
 msgid "Chuvash"
-msgstr "చువాష్"
+msgstr "சுவாச்"
 
 msgid "Classical Newari; Old Newari; Classical Nepal Bhasa"
-msgstr "శాస్త్రీయ నెవరి; పాత నెవారి; శాస్త్రీయ నేపాల్ భాస"
+msgstr "பாரம்பரிய நியுவாரி; பழைய நியுவாரி; பாரம்பரிய நேபாள பாச்சா"
 
 msgid "Classical Syriac"
-msgstr "శాస్త్రీయ సిరియక్"
+msgstr "பாரம்பரிய சைரியாக்"
 
 msgid "Coptic"
-msgstr "కాప్టిక్"
+msgstr "வசம்"
 
 msgid "Cornish"
-msgstr "కార్నిష్"
+msgstr "கார்னிச்"
 
 msgid "Corsican"
-msgstr "కార్సియన్"
+msgstr "கார்சிகன்"
 
 msgid "Cree"
-msgstr "క్రీ"
+msgstr "க்ரீ"
 
 msgid "Creek"
-msgstr "క్రీక్"
+msgstr "சிரீக்"
 
 msgid "Creoles and pidgins"
-msgstr "క్రియోల్ మరియు పిడ్గిన్స్"
+msgstr "கிரியோலச் மற்றும் பிட்கின்ச்"
 
-msgid "Creoles and pidgins, English based"
-msgstr "క్రియోల్స్ మరియు పడ్గిన్స్, ఇంగ్లీష్ ఆధారిత"
+msgid "Creoles and pidgins English based"
+msgstr "கிரியோல்ச் மற்றும் பிட்கின்ச் ஆங்கிலம் அடிப்படையிலானது"
 
-msgid "Creoles and pidgins, French-based"
-msgstr "క్రియోల్స్ మరియు పిడ్గిన్స్, ఫ్రెంచ్-ఆధారిత"
+msgid "Creoles and pidgins French-based"
+msgstr "கிரியோல்ச் மற்றும் பிட்சின்ச் பிரஞ்சு சார்ந்த"
 
-msgid "Creoles and pidgins, Portuguese-based"
-msgstr "క్రియోల్స్ మరియు పిడ్గిన్స్, పోర్చుగీస్-ఆధారిత"
+msgid "Creoles and pidgins Portuguese-based"
+msgstr "கிரியோல்ச் மற்றும் பிட்சின்ச் போர்த்துகீசியத்தைச் சேர்ந்தவர்கள்"
 
 msgid "Crimean Tatar; Crimean Turkish"
-msgstr "క్రైమీన్ తాతర్; క్రైమీన్ టర్కిష్"
+msgstr "கிரைமியன்; கிரைமியன் துருக்கி"
 
 msgid "Croatian"
-msgstr "క్రౌటైన్"
+msgstr "குரோசியன்"
 
 msgid "Cushitic languages"
-msgstr "కుషిటిక్ భాషలు"
+msgstr "கேசிடிக் மொழிகள்"
 
 msgid "Czech"
-msgstr "చెక్"
+msgstr "செக்"
 
 msgid "Dakota"
-msgstr "డకొట"
+msgstr "டகோதா"
 
 msgid "Danish"
-msgstr "డానిష్"
+msgstr "டேனிச்"
 
 msgid "Dargwa"
-msgstr "డర్గ్వా"
+msgstr "டார்க்வா"
 
 msgid "Delaware"
-msgstr "డెలవరె"
+msgstr "டெலாவர்"
 
 msgid "Dinka"
-msgstr "డింకా"
+msgstr "தின்கா"
 
 msgid "Divehi; Dhivehi; Maldivian"
-msgstr "దివేహి; ధివేహి; మాల్దీవియన్"
+msgstr "டிவேஇ;திவேஇ;மால்டிவியன்"
 
 msgid "Dogri"
-msgstr "డొగ్రి"
+msgstr "டோக்ரி"
 
 msgid "Dogrib"
-msgstr "డొగ్రిబ్"
+msgstr "டாக்ரிப்"
 
 msgid "Dravidian languages"
-msgstr "ద్రవిడియన్ భాషలు"
+msgstr "திராவிட மொழிகள்"
 
 msgid "Duala"
-msgstr "డుయల"
+msgstr "டுயாலா"
 
-msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "డచ్, మిడిల్ (ca. 1050-1350)"
+msgid "Dutch Middle (ca. 1050-1350)"
+msgstr "டச்சு நடுத்தர (ca. 1050-1350)"
 
 msgid "Dutch; Flemish"
-msgstr "డచ్, ఫ్లెమిష్"
+msgstr "டச்சு; ஃப்லீமிச்"
 
 msgid "Dyula"
-msgstr "డ్యులా"
+msgstr "டயுலா"
 
 msgid "Dzongkha"
-msgstr "ఝొంఖా"
+msgstr "பூடானி"
 
 msgid "Eastern Frisian"
-msgstr "తూర్పు ఫ్రిసియన్"
+msgstr "கிழக்கு ஃபிரிசியன்"
 
 msgid "Efik"
-msgstr "ఎఫిక్"
+msgstr "இஃபிக்"
 
 msgid "Egyptian (Ancient)"
-msgstr "ఈజిఫ్టియన్ (పురాతన)"
+msgstr "எகிப்தியன் (பழைய)"
 
 msgid "Ekajuk"
-msgstr "ఎకజుక్"
+msgstr "இகாசுக்"
 
 msgid "Elamite"
-msgstr "ఎలమైట్"
+msgstr "எலாமைட்"
 
 msgid "English"
-msgstr "ఇంగ్లీష్"
+msgstr "ஆங்கிலம்"
 
-msgid "English, Middle (1100-1500)"
-msgstr "ఇంగ్లీష్, మిడిల్ (1100-1500)"
+msgid "English Middle (1100-1500)"
+msgstr "ஆங்கில மிடில் (1100-1500)"
 
-msgid "English, Old (ca. 450-1100)"
-msgstr "ఇంగ్లీష్, పాత (ca. 450-1100)"
+msgid "English Old (ca. 450-1100)"
+msgstr "ஆங்கில பழைய (ca. 450-1100)"
 
 msgid "Erzya"
-msgstr "ఎర్జియ"
+msgstr "எர்சையா"
 
 msgid "Esperanto"
-msgstr "ఎస్పెరాంటొ"
+msgstr "எச்பெராண்டோ"
 
 msgid "Estonian"
-msgstr "ఎస్తోనియన్"
+msgstr "எச்டோனிய"
 
 msgid "Ewe"
-msgstr "ఈవ్"
+msgstr "ஈவ்"
 
 msgid "Ewondo"
-msgstr "ఎవండొ"
+msgstr "எவோன்டோ"
 
 msgid "Fang"
-msgstr "ఫాంగ్"
+msgstr "பேங்க்"
 
 msgid "Fanti"
-msgstr "ఫాంటి"
+msgstr "பான்டி"
 
 msgid "Faroese"
-msgstr "ఫరోసీ"
+msgstr "பரோச்"
 
 msgid "Fijian"
-msgstr "ఫిజిని"
+msgstr "ஃபிசியன்"
 
 msgid "Filipino; Pilipino"
-msgstr "ఫిలిపినొ; ఫిలిపినొ"
+msgstr "ஃபிலிபைனோ;பிலிபைனோ"
 
 msgid "Finnish"
-msgstr "ఫిన్నిష్"
+msgstr "பின்னிச்"
 
 msgid "Finno-Ugrian languages"
-msgstr "ఫిన్నొ-ఉగ్రైన్ భాషలు"
+msgstr "ஃபின்னோ-யுக்ரியன் மொழிகள்"
 
 msgid "Fon"
-msgstr "ఫాన్"
+msgstr "ஃபோன்"
 
 msgid "French"
-msgstr "ఫ్రెంచ్"
+msgstr "பிரஞ்சு"
 
-msgid "French, Middle (ca. 1400-1600)"
-msgstr "ఫ్రెంచ్, మిడిల్ (ca. 1400-1600)"
+msgid "French Middle (ca. 1400-1600)"
+msgstr "பிரஞ்சு நடுத்தர (ca. 1400-1600)"
 
-msgid "French, Old (842-ca. 1400)"
-msgstr "ఫ్రెంచ్, పాత (842-ca. 1400)"
+msgid "French Old (842-ca. 1400)"
+msgstr "பிரஞ்சு பழைய (842-கே. 1400)"
 
 msgid "Friulian"
-msgstr "ఫ్రియులియన్"
+msgstr "ஃப்ரியூலியன்"
 
 msgid "Fulah"
-msgstr "ఫులాహ్"
+msgstr "ஃபுலா"
 
 msgid "Ga"
-msgstr "గ"
+msgstr "கா"
 
 msgid "Gaelic; Scottish Gaelic"
-msgstr "గెయిలిక్; స్కాటిష్ గెయిలిక్"
+msgstr "கேலிக்; ச்காட்டிச் கேலிக்"
 
 msgid "Galibi Carib"
-msgstr "గలిబి కరిబ్"
+msgstr "கலிபி காரிப்"
 
 msgid "Galician"
-msgstr "గెలిసియన్"
+msgstr "காலிசியன்"
 
 msgid "Ganda"
-msgstr "గండా"
+msgstr "கான்டா"
 
 msgid "Gayo"
-msgstr "గయొ"
+msgstr "காயோ"
 
 msgid "Gbaya"
-msgstr "గబయా"
+msgstr "கபாயா"
 
 msgid "Geez"
-msgstr "జీజ్"
+msgstr "கீச்"
 
 msgid "Georgian"
-msgstr "జార్జియన్"
+msgstr "சார்சியன்"
 
 msgid "German"
-msgstr "జెర్మన్"
+msgstr "செர்மன்"
 
-msgid "German, Middle High (ca. 1050-1500)"
-msgstr "జెర్మన్, మిడిల్ హై (ca. 1050-1500)"
+msgid "German Middle High (ca. 1050-1500)"
+msgstr "செர்மன் மிடில் ஐ (ca. 1050-1500)"
 
-msgid "German, Old High (ca. 750-1050)"
-msgstr "జెర్మన్, పాత హై (ca. 750-1050)"
+msgid "German Old High (ca. 750-1050)"
+msgstr "செர்மன் பழைய உயர் (ca. 750-1050)"
 
 msgid "Germanic languages"
-msgstr "జెర్మనిక్ భాషలు"
+msgstr "செர்மனிக் மொழிகள்"
 
 msgid "Gilbertese"
-msgstr "గిల్బర్టీస్"
+msgstr "கில்பெர்டீச்"
 
 msgid "Gondi"
-msgstr "గొండి"
+msgstr "கோன்டி"
 
 msgid "Gorontalo"
-msgstr "గొరోన్‌టలో"
+msgstr "கோரோன்டாலோ"
 
 msgid "Gothic"
-msgstr "గోతిక్"
+msgstr "கோதிக்"
 
 msgid "Grebo"
-msgstr "గ్రెబొ"
+msgstr "கிரேபோ"
 
-msgid "Greek, Ancient (to 1453)"
-msgstr "గ్రీక్, పురాతన (1453)"
+msgid "Greek Ancient (to 1453)"
+msgstr "கிரேக்க பண்டைய (முதல் 1453 வரை)"
 
-msgid "Greek, Modern (1453-)"
-msgstr "గ్రీక్, ఆధునిక (1453-)"
+msgid "Greek Modern (1453-)"
+msgstr "கிரேக்க நவீன (1453-)"
 
 msgid "Guarani"
-msgstr "గురాని"
+msgstr "க்வாரனி"
 
 msgid "Gujarati"
-msgstr "గుజరాతి"
+msgstr "குசராத்தி"
 
 msgid "Gwich'in"
-msgstr "గ్విచిన్"
+msgstr "குயிட்ச்யின்"
 
 msgid "Haida"
-msgstr "హైడ"
+msgstr "ஆய்டா"
 
 msgid "Haitian; Haitian Creole"
-msgstr "హైటియన్; హైటియన్ క్రియోల్"
+msgstr "ஆய்டியன்; ஆய்டியன் க்ரிலோ"
 
 msgid "Hausa"
-msgstr "హౌసా"
+msgstr "ஔசா"
 
 msgid "Hawaiian"
-msgstr "హవయియన్"
+msgstr "அவாயியன்"
 
 msgid "Hebrew"
-msgstr "హెబ్రూ"
+msgstr "எபிரேய"
 
 msgid "Herero"
-msgstr "హెరెరొ"
+msgstr "எரேரோ"
 
 msgid "Hiligaynon"
-msgstr "హిలిగేనన్"
+msgstr "இலிகாய்னான்"
 
 msgid "Hindi"
-msgstr "హింది"
+msgstr "இந்தி"
 
 msgid "Hiri Motu"
-msgstr "హిరి మొటు"
+msgstr "இரி மோட்டு"
 
 msgid "Hittite"
-msgstr "హిట్టైట్"
+msgstr "இட்டீ"
 
 msgid "Hungarian"
-msgstr "హంగేరియన్"
+msgstr "அங்கேரியன்"
 
 msgid "Hupa"
-msgstr "హుప"
+msgstr "உபா"
 
 msgid "Iban"
-msgstr "ఇబాన్"
+msgstr "இபான்"
 
 msgid "Icelandic"
-msgstr "ఐస్‌లాండిక్"
+msgstr "‌"
 
 msgid "Ido"
-msgstr "ఇడొ"
+msgstr "இடோ"
 
 msgid "Igbo"
-msgstr "ఇగ్బొ"
+msgstr "இக்போ"
 
 msgid "Ijo languages"
-msgstr "ఇజొ భాషలు"
+msgstr "ஐசோ மொழிகள்"
 
 msgid "Iloko"
-msgstr "ల్లొకొ"
+msgstr "இலோகோ"
 
 msgid "Inari Sami"
-msgstr "ఇనారి సమి"
+msgstr "இனாரி சாமி"
 
 msgid "Indic languages"
-msgstr "భారతీయ భాషలు (ఇండిక్ లాంగ్వేజస్)"
+msgstr "இந்திய மொழிகள்"
 
 msgid "Indo-European languages"
-msgstr "ఇండో-యూరోపియన్ భాషలు"
+msgstr "இந்தோ-ஐரோப்பிய மொழிகள்"
 
 msgid "Indonesian"
-msgstr "ఇండోనేషియన్"
+msgstr "இந்தோனேசிய"
 
 msgid "Ingush"
-msgstr "ఇగ్విష్"
+msgstr "இன்குச்"
 
 msgid "Interlingua (International Auxiliary Language Association)"
-msgstr "ఇంటర్‌లింగ్వా (ఇంటర్నేషనల్ ఆగ్జలరి లాంగ్వేజ్ అస్సోసియేషన్)"
+msgstr "இன்டர்லின்கா (இன்டர்நேச்னல்அக்சிலரி லான்குவேச் அசோசியேசன்)"
 
 msgid "Interlingue; Occidental"
-msgstr "ఇంటర్‌లింగ్వే;ఒకిడెంటల్"
+msgstr "இன்டர்லிங்க்யு; ஆக்சிடென்டல்"
 
 msgid "Inuktitut"
-msgstr "ఐనుక్తిటట్"
+msgstr "இனுகிடூட்"
 
 msgid "Inupiaq"
-msgstr "ఇనుపియాక్"
+msgstr "இனுபியாக்"
 
 msgid "Iranian languages"
-msgstr "ఇరానియన్ భాషలు"
+msgstr "ஈரானிய மொழிகள்"
 
 msgid "Irish"
-msgstr "ఐరిష్"
+msgstr "ஐரிச்"
 
-msgid "Irish, Middle (900-1200)"
-msgstr "ఐరిష్, మిడిల్ (900-1200)"
+msgid "Irish Middle (900-1200)"
+msgstr "ஐரிச் மிடில் (900-1200)"
 
-msgid "Irish, Old (to 900)"
-msgstr "ఐరిష్, పాత (900)"
+msgid "Irish Old (to 900)"
+msgstr "ஐரிச் பழைய (900 முதல்)"
 
 msgid "Iroquoian languages"
-msgstr "ఇరోక్వొయిన్ భాషలు"
+msgstr "ஈரோக்யோன் மொழிகள்"
 
 msgid "Italian"
-msgstr "ఇటాలియన్"
+msgstr "இத்தாலிய"
 
 msgid "Japanese"
-msgstr "జపనీస్"
+msgstr "சப்பானியர்கள்"
 
 msgid "Javanese"
-msgstr "జవనీస్"
+msgstr "சாவானீச்"
 
 msgid "Judeo-Arabic"
-msgstr "జుడెయొ-అరబిక్"
+msgstr "சுடோ அராபிக்"
 
 msgid "Judeo-Persian"
-msgstr "జుడెయొ-పెర్షియన్"
+msgstr "பெர்சியன்"
 
 msgid "Kabardian"
-msgstr "కబర్డియన్"
+msgstr "கபர்டியன்"
 
 msgid "Kabyle"
-msgstr "కబైలె"
+msgstr "கபாய்ல்"
 
 msgid "Kachin; Jingpho"
-msgstr "కచిన్; జింగ్‌ఫో"
+msgstr "காசின்;சிங்போ"
 
 msgid "Kalaallisut; Greenlandic"
-msgstr "కలాల్లిసట్; గ్రీన్‌లాండిక్"
+msgstr "கலாலில்சூட்;கிரீன்லேண்டிக்"
 
 msgid "Kalmyk; Oirat"
-msgstr "కల్మిక్; ఒయిరట్"
+msgstr "காம்யக்; ஒரேட்"
 
 msgid "Kamba"
-msgstr "కంబా"
+msgstr "காம்பா"
 
 msgid "Kannada"
-msgstr "కన్నడ"
+msgstr "கன்னடா"
 
 msgid "Kanuri"
-msgstr "కనురి"
+msgstr "கனுரி"
 
 msgid "Kara-Kalpak"
-msgstr "కర-కల్పక్"
+msgstr "காரா-கல்பாக்"
 
 msgid "Karachay-Balkar"
-msgstr "కరాచి-బల్కర్"
+msgstr "கராசாய்-பால்கர்"
 
 msgid "Karelian"
-msgstr "కరెలియన్"
+msgstr "கரீலியன்"
 
 msgid "Karen languages"
-msgstr "కరెన్ భాషలు"
+msgstr "கரீன் மொழிகள்"
 
 msgid "Kashmiri"
-msgstr "కాశ్మీరి"
+msgstr "காச்மிரி"
 
 msgid "Kashubian"
-msgstr "కషుబియన్"
+msgstr "கசுபியன்"
 
 msgid "Kawi"
-msgstr "కవై"
+msgstr "காவி"
 
 msgid "Kazakh"
-msgstr "కజఖ్"
+msgstr "கசாக்"
 
 msgid "Khasi"
-msgstr "ఖసి"
+msgstr "காசி"
 
 msgid "Khoisan languages"
-msgstr "ఖొయిసన్ భాషలు"
+msgstr "கோய்சன் மொழிகள்"
 
 msgid "Kikuyu; Gikuyu"
-msgstr "కికుయు; గికుయు"
+msgstr "கிக்குயு;கிகுயு"
 
 msgid "Kimbundu"
-msgstr "కింబున్దు"
+msgstr "கிம்புன்டு"
 
 msgid "Kinyarwanda"
-msgstr "కిన్యర్‌వండ"
+msgstr "கின்யாருவான்டா"
 
 msgid "Kirghiz; Kyrgyz"
-msgstr "కిర్‌ఘిజ్; క్యర్‌గైజ్"
+msgstr "கிர்கிச்; கைர்கிசை"
 
 msgid "Klingon; tlhIngan-Hol"
-msgstr "క్లింగన్; తల్‌హ్లన్‌గన్-హాల్"
+msgstr "கிளின்கோன்; இந்தன்-ஒல்"
 
 msgid "Komi"
-msgstr "కొమి"
+msgstr "கொமி"
 
 msgid "Kongo"
-msgstr "కాంగొ"
+msgstr "காங்கோ"
 
 msgid "Konkani"
-msgstr "కొంకని"
+msgstr "கொங்கணி"
 
 msgid "Korean"
-msgstr "కొరియన్"
+msgstr "கொரிய"
 
 msgid "Kosraean"
-msgstr "కొస్రయెన్"
+msgstr "கோசரியன்"
 
 msgid "Kpelle"
-msgstr "కపెల్లె"
+msgstr "கபேல்லீ"
 
 msgid "Kru languages"
-msgstr "క్రు భాషలు"
+msgstr "க்ரு மொழிகள்"
 
 msgid "Kuanyama; Kwanyama"
-msgstr "కుఅన్యమ; కుఅన్యమ"
+msgstr "குயன்யாமா; க்வான்யாமா"
 
 msgid "Kumyk"
-msgstr "కుమిక్"
+msgstr "கும்யக்"
 
 msgid "Kurdish"
-msgstr "కుర్దిష్"
+msgstr "குர்திச்"
 
 msgid "Kurukh"
-msgstr "కురుఖ్"
+msgstr "குருஅ்"
 
 msgid "Kutenai"
-msgstr "కుతెనాయ్"
+msgstr "குதேநைய்"
 
 msgid "Ladino"
-msgstr "లాడినొ"
+msgstr "லடினோ"
 
 msgid "Lahnda"
-msgstr "లహ్‌న్డా"
+msgstr "லஅன்டா"
 
 msgid "Lamba"
-msgstr "లామ్డా"
+msgstr "லாம்பா"
 
 msgid "Land Dayak languages"
-msgstr "లాండ్ డయక్ భాషలు"
+msgstr "லான்ட் டயாக் மொழிகள்"
 
 msgid "Lao"
-msgstr "లౌ"
+msgstr "லாவோ"
 
 msgid "Latin"
-msgstr "లాటిన్"
+msgstr "லத்தீன்"
 
 msgid "Latvian"
-msgstr "లాట్విన్"
+msgstr "லாட்வியன்"
 
 msgid "Lezghian"
-msgstr "లెజ్ఘియన్"
+msgstr "லெச்க்இயன்"
 
 msgid "Limburgan; Limburger; Limburgish"
-msgstr "లింబర్గన్; లింబర్గర్; లింబర్గిష్"
+msgstr "லிம்பர்கன்; லிம்பர்கெர்; லிம்பர்கிச்"
 
 msgid "Lingala"
-msgstr "లింగాల"
+msgstr "லிங்காலா"
 
 msgid "Lithuanian"
-msgstr "లిథుయేనియన్"
+msgstr "லிதுவேனியன்"
 
 msgid "Lojban"
-msgstr "లొజ్బన్"
+msgstr "லோச்பன்"
 
-msgid "Low German; Low Saxon; German, Low; Saxon, Low"
-msgstr "లో జెర్మన్; లొ సాక్సన్; జెర్మన్, లొ; సాక్సన్, లొ"
+msgid "Low German; Low Saxon; German Low; Saxon Low"
+msgstr "குறைந்த செர்மன்; குறைந்த சாக்சன்; செர்மன் குறைந்த; சாக்சன் குறைந்த"
 
 msgid "Lower Sorbian"
-msgstr "లొయర్ సొర్బియన్"
+msgstr "லோயர் சோர்பியன்"
 
 msgid "Lozi"
-msgstr "లోజి"
+msgstr "லோசி"
 
 msgid "Luba-Katanga"
-msgstr "లుబా-కటన్గా"
+msgstr "லுபா-கடாங்கா"
 
 msgid "Luba-Lulua"
-msgstr "లుబా-లులువ"
+msgstr "லூபா-லுலுயா"
 
 msgid "Luiseno"
-msgstr "లుయిసెనొ"
+msgstr "லுய்செனோ"
 
 msgid "Lule Sami"
-msgstr "లులె సమి"
+msgstr "லுலீ சாமி"
 
 msgid "Lunda"
-msgstr "లుండా"
+msgstr "லுன்டா"
 
 msgid "Luo (Kenya and Tanzania)"
-msgstr "లవొ (కెన్యా మరియు టాంజానియా)"
+msgstr "லோ (கென்யா மற்றும் தான்சானியா)"
 
 msgid "Lushai"
-msgstr "లుషై"
+msgstr "லுசாய்"
 
 msgid "Luxembourgish; Letzeburgesch"
-msgstr "లంగ్జెంబర్గిష్; లెట్జెబర్గెక్"
+msgstr "லக்சம்போர்கிச்; லெட்சிம்போர்கிச்ச்"
 
 msgid "Macedonian"
-msgstr "మెసెడొనియన్"
+msgstr "மாசிடோனியன்"
 
 msgid "Madurese"
-msgstr "మదురెసె"
+msgstr "மதுரெச்"
 
 msgid "Magahi"
-msgstr "మగాహి"
+msgstr "மகாஇ"
 
 msgid "Maithili"
-msgstr "మైథిలి"
+msgstr "மைதிலி"
 
 msgid "Makasar"
-msgstr "మఖసర్"
+msgstr "மக்காசர்"
 
 msgid "Malagasy"
-msgstr "మలగసి"
+msgstr "மலகாசி"
 
 msgid "Malay"
-msgstr "మలయ్"
+msgstr "மலாய்"
 
 msgid "Malayalam"
-msgstr "మలయాళం"
+msgstr "மலையாளம்"
 
 msgid "Maltese"
-msgstr "మాల్టీస్"
+msgstr "மால்டிச்"
 
 msgid "Manchu"
-msgstr "మంచు"
+msgstr "மன்சு"
 
 msgid "Mandar"
-msgstr "మండర్"
+msgstr "மான்டர்"
 
 msgid "Mandingo"
-msgstr "మండిన్గొ"
+msgstr "மேன்டின்கோ"
 
 msgid "Manipuri"
-msgstr "మణిపురి"
+msgstr "மணிப்புரி"
 
 msgid "Manobo languages"
-msgstr "మనొబొ భాషలు"
+msgstr "மேனோபா மொழிகள்"
 
 msgid "Manx"
-msgstr "మాంక్స్"
+msgstr "மேங்க்ச்"
 
 msgid "Maori"
-msgstr "మౌరి"
+msgstr "மௌரி"
 
 msgid "Mapudungun; Mapuche"
-msgstr "మపుడున్‌గన్; మపుచె"
+msgstr "மபூடன்கன், ம்பூசே"
 
 msgid "Marathi"
-msgstr "మరాఠి"
+msgstr "மராத்தி"
 
 msgid "Mari"
-msgstr "మరి"
+msgstr "மாரி"
 
 msgid "Marshallese"
-msgstr "మర్షాల్లీస్"
+msgstr "மார்செலீச்"
 
 msgid "Marwari"
-msgstr "మర్వారి"
+msgstr "மார்வாரி"
 
 msgid "Masai"
-msgstr "మసాయ్"
+msgstr "மாசாய்"
 
 msgid "Mayan languages"
-msgstr "మయన్ భాషలు"
+msgstr "மயன் மொழிகள்"
 
 msgid "Mende"
-msgstr "మెండె"
+msgstr "மென்டீ"
 
 msgid "Mi'kmaq; Micmac"
-msgstr "మిక్‌మక్; మిక్‌మాక్"
+msgstr "மைக்மாக்; மிக்மேக்"
 
 msgid "Minangkabau"
-msgstr "మినంగ్‌కబౌ"
+msgstr "மிநாங்காபோ"
 
 msgid "Mirandese"
-msgstr "మిరాన్డీస్"
+msgstr "மிரன்டேச்"
 
 msgid "Mohawk"
-msgstr "మొహవక్"
+msgstr "மோஆவ்க்"
 
 msgid "Moksha"
-msgstr "మోక్షా"
+msgstr "மோக்சா"
 
 msgid "Mon-Khmer languages"
-msgstr "మాన్-ఖ్మెర్ భాషలు"
+msgstr "மன்-கேமர் மொழிகள்"
 
 msgid "Mongo"
-msgstr "మాంగొ"
+msgstr "மாங்கோ"
 
 msgid "Mongolian"
-msgstr "మంగోలియన్"
+msgstr "மங்கோலியன்"
 
 msgid "Mossi"
-msgstr "మొస్సి"
+msgstr "மோச்சி"
 
 msgid "Multiple languages"
-msgstr "బహుళ భాషలు"
+msgstr "பல மொழிகள்"
 
 msgid "Munda languages"
-msgstr "మన్డా భాషలు"
+msgstr "முன்டா மொழிகள்"
 
 msgid "N'Ko"
-msgstr "ఎన్కొ"
+msgstr "என்கோ"
 
 msgid "Nahuatl languages"
-msgstr "నౌహతల్ భాషలు"
+msgstr "நசோதி மொழிகள்"
 
 msgid "Nauru"
-msgstr "నౌరు"
+msgstr "நவ்ரூ"
 
 msgid "Navajo; Navaho"
-msgstr "నవజొ; నవహొ"
+msgstr "நவாசோ; நவாசோ"
 
-msgid "Ndebele, North; North Ndebele"
-msgstr "న్డెబెలె, ఉత్తర, ఉత్తర న్డెబెలె"
+msgid "Ndebele North; North Ndebele"
+msgstr "Ndebele வடக்கு; வடக்கு Ndebele"
 
-msgid "Ndebele, South; South Ndebele"
-msgstr "న్డెబెలె; దక్షిణ; దక్షిణ న్డెబెలె"
+msgid "Ndebele South; South Ndebele"
+msgstr "Ndebele தெற்கு; தெற்கு என்டெபெல்"
 
 msgid "Ndonga"
-msgstr "న్డోన్గా"
+msgstr "தோங்கா"
 
 msgid "Neapolitan"
-msgstr "నియోపొలిటన్"
+msgstr "நியோபோலிடன்"
 
 msgid "Nepal Bhasa; Newari"
-msgstr "నేపాల్ భాష; నెవారి"
+msgstr "நேபாளம் பாச்சா: நியுவாரி"
 
 msgid "Nepali"
-msgstr "నేపాలి"
+msgstr "நேபாளி"
 
 msgid "Nias"
-msgstr "నయాస్"
+msgstr "நியாச்"
 
 msgid "Niger-Kordofanian languages"
-msgstr "నైజర్-కార్డొఫానియన్ భాషలు"
+msgstr "நைகர் கோர்டோஃபேனியன் மொழிகள்"
 
 msgid "Nilo-Saharan languages"
-msgstr "నైలొ-సహరన్ భాషలు"
+msgstr "நைலோ-சஆரேன் மொழிகள்"
 
 msgid "Niuean"
-msgstr "నియుయన్"
+msgstr "தையுன்"
 
 msgid "No linguistic content; Not applicable"
-msgstr "ఎటువంటి భాషసంభంద సారములేదు; వర్తింపదు"
+msgstr "மொழி உள்ளடகம் இல்லை;பொருந்தாது"
 
 msgid "Nogai"
-msgstr "నొగై"
+msgstr "நோகாய்"
 
-msgid "Norse, Old"
-msgstr "నార్స్, పాత్"
+msgid "Norse Old"
+msgstr "நார்ச் பழையது"
 
 msgid "North American Indian languages"
-msgstr "ఉత్తర అమెరికన్ ఇండియా భాషలు"
+msgstr "வடக்கு அமெரிக்க இந்திய மொழிகள்"
 
 msgid "Northern Frisian"
-msgstr "ఉత్తర ఫ్రిసియన్"
+msgstr "வடக்கு ஃபிரிசியன்"
 
 msgid "Northern Sami"
-msgstr "ఉత్తర సమి"
+msgstr "கிழக்கு சாமி"
 
 msgid "Norwegian"
-msgstr "నార్వేజియన్"
+msgstr "நோர்வே"
 
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "నార్వేజియన్ నైనొర్‌స్క్; నైనొర్‌స్క్, నార్వేజియన్"
+msgid "Norwegian Nynorsk; Nynorsk Norwegian"
+msgstr "நோர்வே நியூ நோர்வே; நைனோர்ச்க் நோர்வே"
 
 msgid "Nubian languages"
-msgstr "నుబైన్ భాషలు"
+msgstr "நியூபியன் மொழிகள்"
 
 msgid "Nyamwezi"
-msgstr "న్యామ్‌వెజి"
+msgstr "நயாம்வேகி"
 
 msgid "Nyankole"
-msgstr "న్యాన్‌కొలె"
+msgstr "நியான்கோலே"
 
 msgid "Nyoro"
-msgstr "న్యొరొ"
+msgstr "நயோரோ"
 
 msgid "Nzima"
-msgstr "న్జిమా"
+msgstr "நசிமா"
 
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
-msgstr ""
-"అధికారిక అర్మైక్ (700-300 ‌క్రీ.పూ.); ఇంపీరియల్ అర్మైక్ (700-300 క్రీ.పూ.)"
+msgstr "imperial aramaic"
 
 msgid "Ojibwa"
-msgstr "ఒజిబ్వా"
+msgstr "ஒசிப்வா"
 
 msgid "Oriya"
-msgstr "ఒరియా"
+msgstr "ஓரியா"
 
 msgid "Oromo"
-msgstr "ఒరొమో"
+msgstr "ஒரோமோ"
 
 msgid "Osage"
-msgstr "ఒసాజె"
+msgstr "ஓசேச்"
 
 msgid "Ossetian; Ossetic"
-msgstr "ఒస్సెటియన్; ఒస్సెటిక్"
+msgstr "ஒச்டியன்; ஒச்செட்டிக்"
 
 msgid "Otomian languages"
-msgstr "ఒటొమెయిన్ భాషలు"
+msgstr "ஒடோமியன் மொழிகள்"
 
 msgid "Pahlavi"
-msgstr "పహ్లవి"
+msgstr "பஅ்லாவி"
 
 msgid "Palauan"
-msgstr "పలయుయన్"
+msgstr "பலோன்"
 
 msgid "Pali"
-msgstr "పలి"
+msgstr "பாலி"
 
 msgid "Pampanga; Kapampangan"
-msgstr "పంపన్గా; కపమ్‌పన్గన్"
+msgstr "பம்பான்கா; கபம்பான்கா"
 
 msgid "Pangasinan"
-msgstr "పాంగాసినన్"
+msgstr "பங்காசினன்"
 
 msgid "Panjabi; Punjabi"
-msgstr "పంజాబి; పంజాబి"
+msgstr "பஞ்சாபி; பஞ்சாபி"
 
 msgid "Papiamento"
-msgstr "పపియామెంటొ"
+msgstr "பபியாமென்டோ"
 
 msgid "Papuan languages"
-msgstr "పపుయన్ భాషలు"
+msgstr "பாபூன் மொழிகள்"
 
 msgid "Pedi; Sepedi; Northern Sotho"
-msgstr "పెడి; సెపెడి; నార్త్రన్ సౌతొ"
+msgstr "பீடி;சேபீடி; வடக்கு சோதோ"
 
 msgid "Persian"
-msgstr "పర్షియన్"
+msgstr "பெர்சியன்"
 
-msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "పర్షియన్, పాత (ca. 600-400 క్రీ.పూ.)"
+msgid "Persian Old (ca. 600-400 B.C.)"
+msgstr "பாரசீக பழைய (ca. 600-400 B.C.)"
 
 msgid "Philippine languages"
-msgstr "ఫిలిప్పైన్ భాషలు"
+msgstr "ஃபிலிப்பைன் மொழிகள்"
 
 msgid "Phoenician"
-msgstr "ఫొయినిసియన్"
+msgstr "ஃபீனீசியன்"
 
 msgid "Pohnpeian"
-msgstr "పొహ్నెపైయన్"
+msgstr "போன்பெயன்"
 
 msgid "Polish"
-msgstr "పోలిష్"
+msgstr "போலீச்"
 
 msgid "Portuguese"
-msgstr "పోర్చుగీస్"
+msgstr "போர்த்துகீசியம்"
 
 msgid "Prakrit languages"
-msgstr "ప్రక్రిత్ భాషలు"
+msgstr "பராக்ரிட் மொழிகள்"
 
 msgid "Pushto; Pashto"
-msgstr "పుష్టో; పష్టో"
+msgstr "புச்டூ; பாச்டூ"
 
 msgid "Quechua"
-msgstr "క్వెచువా"
+msgstr "க்வெச்சுவா"
 
 msgid "Rajasthani"
-msgstr "రాజస్థాని"
+msgstr "ராசச்தானி"
 
 msgid "Rapanui"
-msgstr "రపనుయ్"
+msgstr "ராபாநுய்"
 
 msgid "Rarotongan; Cook Islands Maori"
-msgstr "రరొటొంగన్; కుక్ ఐలాండ్స్ మౌరి"
+msgstr "ரரோடோன்கன்; கூக் மௌரி தீவுகள்"
 
 msgid "Reserved for local use"
-msgstr "స్థానికి వినియోగం కొరకు వుంచబడింది"
+msgstr "உள்ளமை பயன்பாட்டிற்காக ஒதுக்கப்பட்டது"
 
 msgid "Romance languages"
-msgstr "రొమన్స్ భాషలు"
+msgstr "ரேமன்ச் மொழிகள்"
 
 msgid "Romansh"
-msgstr "రోమన్ష్"
+msgstr "ரோமான்ச்"
 
 msgid "Romany"
-msgstr "రొమని"
+msgstr "ரோமானி"
 
 msgid "Rundi"
-msgstr "రున్డి"
+msgstr "ருண்டி"
 
 msgid "Russian"
-msgstr "రష్యన్"
+msgstr "ரச்ய"
 
 msgid "Salishan languages"
-msgstr "సాలిషన్ భాషలు"
+msgstr "சாலிசன் மொழிகள்"
 
 msgid "Samaritan Aramaic"
-msgstr "సమరిటన్ అర్మైక్"
+msgstr "சமாரிடின் அராமைக்"
 
 msgid "Sami languages"
-msgstr "సమి భాషలు"
+msgstr "சாமி மொழிகள்"
 
 msgid "Samoan"
-msgstr "సమొయన్"
+msgstr "சமோவான்"
 
 msgid "Sandawe"
-msgstr "సాన్‌డ్వె"
+msgstr "சான்டவே"
 
 msgid "Sango"
-msgstr "సాంగొ"
+msgstr "சாங்கோ"
 
 msgid "Sanskrit"
-msgstr "సంస్కృతము"
+msgstr "செங்கிருதம்"
 
 msgid "Santali"
-msgstr "సాంథలి"
+msgstr "சான்டாலி"
 
 msgid "Sardinian"
-msgstr "సార్డీనియన్"
+msgstr "சார்தீனியன்"
 
 msgid "Sasak"
-msgstr "ససక్"
+msgstr "சாசக்"
 
 msgid "Scots"
-msgstr "స్కాట్స్"
+msgstr "ச்காட்ச்"
 
 msgid "Selkup"
-msgstr "సెల్కప్"
+msgstr "செல்க்கப்"
 
 msgid "Semitic languages"
-msgstr "సెమిటిక్ భాషలు"
+msgstr "சிமிட்டிக் மொழிகள்"
 
 msgid "Serbian"
-msgstr "సెర్బియన్"
+msgstr "செர்பிய"
 
 msgid "Serer"
-msgstr "సెరెర్"
+msgstr "சேர்ரர்"
 
 msgid "Shan"
-msgstr "షాన్"
+msgstr "சான்"
 
 msgid "Shona"
-msgstr "షోన"
+msgstr "சோனா"
 
 msgid "Sichuan Yi; Nuosu"
-msgstr "సిచుయన్ యై; నౌసు"
+msgstr "சிசௌன் யி; நௌசு"
 
 msgid "Sicilian"
-msgstr "సిసిలియన్"
+msgstr "சிசிலியன்"
 
 msgid "Sidamo"
-msgstr "సిడమొ"
+msgstr "சிடாமோ"
 
 msgid "Sign Languages"
-msgstr "సంకేత భాషలు"
+msgstr "கையொப்ப மொழிகள்"
 
 msgid "Siksika"
-msgstr "సిక్‌సికా"
+msgstr "சிக்சிகா"
 
 msgid "Sindhi"
-msgstr "సింధి"
+msgstr "சிந்தி"
 
 msgid "Sinhala; Sinhalese"
-msgstr "సిన్హాలా; సిన్హాలీస్"
+msgstr "சின்ஆலா; சின்ஆலிசி"
 
 msgid "Sino-Tibetan languages"
-msgstr "సినో-టిబెటన్ భాషలు"
+msgstr "சைனோ-திபேத்தியன் மொழிகள்"
 
 msgid "Siouan languages"
-msgstr "సియౌన్ భాషలు"
+msgstr "சையோன் மொழிகள்"
 
 msgid "Skolt Sami"
-msgstr "స్కోల్ట్ సమి"
+msgstr "ச்கோல்ட் சாமி"
 
 msgid "Slave (Athapascan)"
-msgstr "స్లేవ్ (అతపస్కాన్)"
+msgstr "ச்லாவ் (அதாபாச்கேன்)"
 
 msgid "Slavic languages"
-msgstr "స్లావిక్ భాషలు"
+msgstr "சால்விக் மொழிகள்"
 
 msgid "Slovak"
-msgstr "స్లోవక్"
+msgstr "ச்லோவாக்"
 
 msgid "Slovenian"
-msgstr "స్లవెనియన్"
+msgstr "ச்லோவேனியன்"
 
 msgid "Sogdian"
-msgstr "సొగ్డియన్"
+msgstr "சோக்டியன்"
 
 msgid "Somali"
-msgstr "సొమాలి"
+msgstr "சோமாலி"
 
 msgid "Songhai languages"
-msgstr "షాంఘై భాషలు"
+msgstr "சன்கைய் மொழிகள்"
 
 msgid "Soninke"
-msgstr "సొనిన్కె"
+msgstr "சோனின்கீ"
 
 msgid "Sorbian languages"
-msgstr "సొర్బియన్ భాషలు"
+msgstr "சோர்பியன் மொழிகள்"
 
-msgid "Sotho, Southern"
-msgstr "సౌతో, దక్షిణ"
+msgid "Sotho Southern"
+msgstr "சோத்தோ தெற்கு"
 
 msgid "Southern Altai"
-msgstr "దక్షిణ అల్టాయ్"
+msgstr "தெற்கு இல்தாய்"
 
 msgid "Southern Sami"
-msgstr "దక్షిణ సమి"
+msgstr "வடக்கு சாமி"
 
 msgid "Spanish; Castilian"
-msgstr "స్పానిష్; కాస్టిలియన్"
+msgstr "ச்பானிச்; காச்டிலியன்"
 
 msgid "Sranan Tongo"
-msgstr "స్కానన్ టాంగొ"
+msgstr "சரனன் டோங்கோ"
 
 msgid "Sukuma"
-msgstr "సుకుమ"
+msgstr "சுகுமா"
 
 msgid "Sumerian"
-msgstr "సుమెరియన్"
+msgstr "சுமேரியன்"
 
 msgid "Sundanese"
-msgstr "సుండనీస్"
+msgstr "சுந்தானியர்கள்"
 
 msgid "Susu"
-msgstr "సుసు"
+msgstr "சுசு"
 
 msgid "Swahili"
-msgstr "స్వాహిలి"
+msgstr "ச்வாஇலி"
 
 msgid "Swati"
-msgstr "స్వాతి"
+msgstr "ச்வாடீ"
 
 msgid "Swedish"
-msgstr "స్వీడిష్"
+msgstr "ச்வீடிச்"
 
 msgid "Swiss German; Alemannic; Alsatian"
-msgstr "స్విస్ జెర్మన్; అలెమానిక్; అల్సటియన్"
+msgstr "சுவிச் செர்மன்; அலீமான்னிக்; அல்சாடியன்"
 
 msgid "Syriac"
-msgstr "సిరియక్"
+msgstr "சிரியாக்"
 
 msgid "Tagalog"
-msgstr "టాగలాగ్"
+msgstr "டாக்லாக்"
 
 msgid "Tahitian"
-msgstr "తాహితియన్"
+msgstr "தஇதியன்"
 
 msgid "Tai languages"
-msgstr "థాయ్ భాషలు"
+msgstr "தாய் மொழிகள்"
 
 msgid "Tajik"
-msgstr "తజిక్"
+msgstr "தசிக்"
 
 msgid "Tamashek"
-msgstr "తమషెక్"
+msgstr "தமாசேக்"
 
 msgid "Tamil"
-msgstr "తమిళం"
+msgstr "தமிழ்"
 
 msgid "Tatar"
-msgstr "తతర్"
+msgstr "டாடர்"
 
 msgid "Telugu"
-msgstr "తెలుగు"
+msgstr "தெலுங்கு"
 
 msgid "Tereno"
-msgstr "తెరెనొ"
+msgstr "தெரெனோ"
 
 msgid "Tetum"
-msgstr "తెతుమ్"
+msgstr "டீடம்"
 
 msgid "Thai"
-msgstr "థాయ్"
+msgstr "தாய்"
 
 msgid "Tibetan"
-msgstr "టిబెటన్"
+msgstr "திபெத்திய"
 
 msgid "Tigre"
-msgstr "టిగ్రె"
+msgstr "டைக்ரே"
 
 msgid "Tigrinya"
-msgstr "టిగ్రిన్యా"
+msgstr "டிக்ரின்யா"
 
 msgid "Timne"
-msgstr "తిమ్నె"
+msgstr "திம்னே"
 
 msgid "Tiv"
-msgstr "టివ్"
+msgstr "டிவ்"
 
 msgid "Tlingit"
-msgstr "ట్లిన్గిట్"
+msgstr "லிங்கிட்"
 
 msgid "Tok Pisin"
-msgstr "టాక్ పిసిన్"
+msgstr "டோக் பிசின்"
 
 msgid "Tokelau"
-msgstr "టొకెలౌ"
+msgstr "டொகிலா"
 
 msgid "Tonga (Nyasa)"
-msgstr "టాంగొ (న్యాస)"
+msgstr "டோங்கா (நயாசா)"
 
 msgid "Tonga (Tonga Islands)"
-msgstr "టాంగొ (టాంగొ ఐలాండ్స్)"
+msgstr "டோங்கா (டோங்கா தீவுகள்)"
 
 msgid "Tsimshian"
-msgstr "త్సిమ్‌షియన్"
+msgstr "தசிம்சியன்"
 
 msgid "Tsonga"
-msgstr "త్సొంగా"
+msgstr "சோங்கா"
 
 msgid "Tswana"
-msgstr "త్సవన"
+msgstr "ச்வானா"
 
 msgid "Tumbuka"
-msgstr "తుమ్బుక"
+msgstr "தும்புகா"
 
 msgid "Tupi languages"
-msgstr "తుపి భాషలు"
+msgstr "டியுபி மொழிகள்"
 
 msgid "Turkish"
-msgstr "టర్కిష్"
+msgstr "துருக்கிய"
 
-msgid "Turkish, Ottoman (1500-1928)"
-msgstr "టర్కిష్, ఒట్టొమేన్ (1500-1928)"
+msgid "Turkish Ottoman (1500-1928)"
+msgstr "துருக்கிய ஒட்டோமான் (1500-1928)"
 
 msgid "Turkmen"
-msgstr "టర్క్‌మెన్"
+msgstr "துருக்மென்"
 
 msgid "Tuvalu"
-msgstr "తువలు"
+msgstr "துவாலு"
 
 msgid "Tuvinian"
-msgstr "తువినియన్"
+msgstr "துவினியன்"
 
 msgid "Twi"
-msgstr "త్వై"
+msgstr "ட்வி"
 
 msgid "Udmurt"
-msgstr "ఉడ్ముర్ట్"
+msgstr "உட்முர்ட்"
 
 msgid "Ugaritic"
-msgstr "ఉగార్టిక్"
+msgstr "உகாரிடிக்"
 
 msgid "Uighur; Uyghur"
-msgstr "ఐఘుర్; ఉయిఘుర్"
+msgstr "உகுர்;யுகுர்"
 
 msgid "Ukrainian"
-msgstr "ఉక్రైనియన్"
+msgstr "உக்ரேனிய"
 
 msgid "Umbundu"
-msgstr "ఉబున్డు"
+msgstr "உம்பன்டு"
 
 msgid "Uncoded languages"
-msgstr "అన్కోడెడ్ భాషలు"
+msgstr "குறிப்பிடப்பாத மொழிகள்"
 
 msgid "Undetermined"
-msgstr "నిర్ధారించలేని"
+msgstr "வரையறுக்கப்பட்டாத"
 
 msgid "Upper Sorbian"
-msgstr "అప్పర్ సొర్బియన్"
+msgstr "அப்பர் சோர்பியான்"
 
 msgid "Urdu"
-msgstr "ఉర్దు"
+msgstr "உருது"
 
 msgid "Uzbek"
-msgstr "ఉజ్బెక్"
+msgstr "உச்பெக்"
 
 msgid "Vai"
-msgstr "వాయ్"
+msgstr "வாய்"
 
 msgid "Venda"
-msgstr "వెండా"
+msgstr "வென்டா"
 
 msgid "Vietnamese"
-msgstr "వియత్నాంసీ"
+msgstr "வியட்நாமிய"
 
 msgid "Volapük"
-msgstr "వొలపుక్"
+msgstr "ஒலாபூக்"
 
 msgid "Votic"
-msgstr "వొటిక్"
+msgstr "வோடிக்"
 
 msgid "Wakashan languages"
-msgstr "వకషన్ భాషలు"
+msgstr "வகாசன் மொழிகள்"
 
 msgid "Walloon"
-msgstr "వల్లూన్"
+msgstr "ஒவாலூன்"
 
 msgid "Waray"
-msgstr "ఒరై"
+msgstr "வாரே"
 
 msgid "Washo"
-msgstr "వషొ"
+msgstr "வாசோ"
 
 msgid "Welsh"
-msgstr "వెల్ష్"
+msgstr "வேல்ச்"
 
 msgid "Western Frisian"
-msgstr "పశ్చిమ ఫ్రిసియన్"
+msgstr "மேற்கு ஃபிரிசியன்"
 
 msgid "Wolof"
-msgstr "వొలోఫ్"
+msgstr "ஓலோஃப்"
 
 msgid "Xhosa"
-msgstr "క్సొస"
+msgstr "ஓசா"
 
 msgid "Yakut"
-msgstr "యకుత్"
+msgstr "யாகுட்"
 
 msgid "Yao"
-msgstr "యో"
+msgstr "யோ"
 
 msgid "Yapese"
-msgstr "యపెసె"
+msgstr "யாப்சி"
 
 msgid "Yiddish"
-msgstr "ఇద్దీష్"
+msgstr "யெட்டிச்"
 
 msgid "Yoruba"
-msgstr "యొరుబ"
+msgstr "யோருபா"
 
 msgid "Yupik languages"
-msgstr "యుపిక్ భాషలు"
+msgstr "யூபிக் மொழிகள்"
 
 msgid "Zande languages"
-msgstr "జండె భాషలు"
+msgstr "சான்டீ மொழிகள்"
 
 msgid "Zapotec"
-msgstr "జపొటెక్"
+msgstr "சபோடெக்"
 
 msgid "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"
-msgstr "జాజా; దిమిల్లి; దిమిల్; కిర్దిక్; కిర్మన్జికి; జజకి"
+msgstr "சாசா;டிமிலி;டிமிலி; கிர்டுகி; கிர்மான்சிகி; சாசாகி"
 
 msgid "Zenaga"
-msgstr "జెనగ"
+msgstr "சேனகா"
 
 msgid "Zhuang; Chuang"
-msgstr "ఝువాంగ్; ఛువాంగ్"
+msgstr "சூயாங்;சுயாங்"
 
 msgid "Zulu"
-msgstr "జులు"
+msgstr "சுலு"
 
 msgid "Zuni"
-msgstr "జుని"
+msgstr "சுனி"

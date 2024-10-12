@@ -1257,7 +1257,7 @@ msgstr "இன்றைக்கு நீங்கள் நிறுத்த 
 
 #: ui/app/Menus.cc:137 ui/applets/mate/src/main.c:372
 msgid "_About"
-msgstr "_About"
+msgstr "பற்றி"
 
 #: ui/app/Menus.cc:78 ui/applets/mate/src/main.c:366
 msgid "_Exercises"
